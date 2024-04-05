@@ -1,0 +1,2 @@
+Нужно для начала подгрузить все image в докер для этого заходим в каждую папки и запускаем dockerize.bat. Пример ClientApiService/nestjs-server/dockerize.bat. 
+После того как подгрузил все dockerize.bat нужно запускать deploy.bat благодаря этому увидим всю сборку. 
